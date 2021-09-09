@@ -1,0 +1,6 @@
+twitch:
+  access_token: "abcdefg"
+  refresh_token: "abcdefg"
+  client_id: "abcdefg"
+  channel_name: "channel"
+  affiliate: false

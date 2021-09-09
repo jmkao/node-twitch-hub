@@ -1,0 +1,30 @@
+{
+  "name": "twitch-hub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "@twurple/api": "^5.0.1",
+    "@twurple/auth": "^5.0.1",
+    "@twurple/chat": "^5.0.1",
+    "@twurple/eventsub": "^5.0.1",
+    "@twurple/pubsub": "^5.0.1",
+    "express": "^4.17.1",
+    "nconf": "^0.11.3",
+    "nconf-yaml": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmkao/node-twitch-hub.git"
+  },
+  "author": "James Kao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmkao/node-twitch-hub/issues"
+  },
+  "homepage": "https://github.com/jmkao/node-twitch-hub#readme"
+}
