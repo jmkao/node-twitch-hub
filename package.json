@@ -9,11 +9,11 @@
     "@twurple/chat": "^5.0.1",
     "@twurple/eventsub": "^5.0.1",
     "@twurple/pubsub": "^5.0.1",
+    "axios": "^0.26.0",
     "express": "^4.17.1",
     "nconf": "^0.11.3",
     "nconf-yaml": "^1.0.2"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
